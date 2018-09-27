@@ -18,8 +18,8 @@
 
 ## Installation
 
-    git clone https://github.com/angelsagredo/vue-spa-cooking-recipes.git 
-    cd vue-spa-cooking-recipes
+    git clone https://github.com/angelsagredo/laravel-api-cooking-recipes.git 
+    cd laravel-api-cooking-recipes
     composer install
     
 Open .env file and edit with your own custom settings and credentials.
