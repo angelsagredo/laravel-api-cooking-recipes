@@ -21,6 +21,9 @@
     git clone https://github.com/angelsagredo/laravel-api-cooking-recipes.git 
     cd laravel-api-cooking-recipes  
     composer install
-- Open .env file and edit with your own custom settings and credentials.      
-- (When installed via git clone or download, run php artisan key:generate and php artisan jwt:secret)  
-- php artisan migrate
+    
+- Open .env file and edit with your own custom settings and credentials.  
+
+    php artisan key:generate
+    php artisan jwt:secret 
+    php artisan migrate
