@@ -23,5 +23,4 @@
     composer install
 - Open .env file and edit with your own custom settings and credentials.      
 - (When installed via git clone or download, run php artisan key:generate and php artisan jwt:secret)  
-    php artisan key:generate
-    php artisan migrate
+- php artisan migrate
