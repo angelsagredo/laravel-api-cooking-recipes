@@ -14,7 +14,6 @@
 - Laravel 5.6
 - Login and register
 - Authentication with JWT
-- Amazon S3 for image upload and SES for email sending
 
 ## Installation
 
